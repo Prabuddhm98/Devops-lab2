@@ -1,2 +1,3 @@
 hello git 
 messege is updated by new person
+new changes made in class 3
